@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'catullregular';
+    src: url('fonts/catull-webfont.eot');
+    src: url('fonts/catull-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/catull-webfont.woff2') format('woff2'),
+         url('fonts/catull-webfont.woff') format('woff'),
+         url('fonts/catull-webfont.ttf') format('truetype'),
+         url('fonts/catull-webfont.svg#catullregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{max-width: 100%;}
+
+.google-plus{
+	background: #a82824;
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjMwJSIgc3RvcC1jb2xvcj0iI2E4MjgyNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUyJSIgc3RvcC1jb2xvcj0iI2RiNDkzNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijg0JSIgc3RvcC1jb2xvcj0iI2RiNDkzNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijg0JSIgc3RvcC1jb2xvcj0iI2RiNDkzNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+background: -moz-linear-gradient(45deg,  #a82824 30%, #db4936 52%, #db4936 84%, #db4936 84%);
+background: -webkit-gradient(linear, left bottom, right top, color-stop(30%,#a82824), color-stop(52%,#db4936), color-stop(84%,#db4936), color-stop(84%,#db4936));
+background: -webkit-linear-gradient(45deg,  #a82824 30%,#db4936 52%,#db4936 84%,#db4936 84%);
+background: -o-linear-gradient(45deg,  #a82824 30%,#db4936 52%,#db4936 84%,#db4936 84%);
+background: -ms-linear-gradient(45deg,  #a82824 30%,#db4936 52%,#db4936 84%,#db4936 84%);
+background: linear-gradient(45deg,  #a82824 30%,#db4936 52%,#db4936 84%,#db4936 84%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a82824', endColorstr='#db4936',GradientType=1 );
+	width: 400px;
+	height: 400px;
+	border-radius: 40px;
+	border-left: 1px solid #ECD2C8;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.google-plus .letter, 
+ .google-plus .plus{
+ 	font-family: 'catullregular', sans-serif;
+	color: #fff;
+ }
+
+.google-plus .letter{
+	margin-left: -50px;
+	text-shadow: 3px 3px 0 #A82800, 3px 3px 0 #DB4936;
+	font-size: 605px;
+	line-height: 0.435;
+}
+
+.google-plus .plus{
+	line-height: 0;
+	position: relative;
+	top: -90px;
+	margin-left: -5px;
+	font-size: 300px;
+	font-weight: bold;
+	text-shadow: 5px 5px 0 #A82800;
+}
+
+
