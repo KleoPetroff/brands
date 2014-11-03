@@ -38,7 +38,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a82824', end
 
 .google-plus .letter{
 	margin-left: -50px;
-	text-shadow: 3px 3px 0 #A82800, 3px 3px 0 #DB4936;
+	text-shadow: 3px 3px 0 #A82800, -2px 4px 0 #DB4936;
 	font-size: 605px;
 	line-height: 0.435;
 }
